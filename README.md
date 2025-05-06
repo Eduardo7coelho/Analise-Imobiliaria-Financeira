@@ -53,12 +53,11 @@ O projeto contém 4 tabelas principais:
 
 ## Sugestões de Expansão
 
-- Exportar dados para Power BI
 - Simular cenários de reajuste futuro
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por Eduardo Coelho.
 
