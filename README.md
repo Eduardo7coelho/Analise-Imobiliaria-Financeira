@@ -33,6 +33,7 @@ O projeto contém 4 tabelas principais:
 - Cidades com maior valor de mercado em imóveis
 - Fundos com o maior valor de mercado
 - Os contratos de locação com maior duração
+  
 **2. Power BI:**
 - Visão geral das métricas financeiras da empresa, envolvendo todas as empresas.
 - Análise individual de cada fundo, com tabela detalhada exibindo todos os imóveis relacionados a cada fundo.
